@@ -1,7 +1,7 @@
 <footer class="bg-dark text-light">
         <div class="shape">
-            <img src="assets/img/shape/12.png" alt="Image Not Found">
-            <img src="assets/img/illustration/3.png" alt="Image Not Found">
+            <img src="{{asset('front/assets/img/shape/12.png')}}" alt="Image Not Found">
+            <img src="{{asset('front/assets/img/illustration/3.png')}}" alt="Image Not Found">
         </div>
         <div class="footer-style-one">
             <div class="container">
@@ -10,7 +10,7 @@
                         <div class="col-lg-4 col-md-6 footer-item">
                             <div class="f-item about">
                                 <div class="footer-logo">
-                                    <img src="assets/img/logo-light.svg" alt="Image Not Found">
+                                    <img src="{{asset('front/assets/img/logo-light.svg')}}" alt="Image Not Found">
                                 </div>
                                 <div class="f-item">
                                     <p>
@@ -20,7 +20,7 @@
                                     </p>
                                     <ul class="footer-social-regular mt-30">
                                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><img src="assets/img/icon/twitter-x.png"
+                                        <li><a href="#"><img src="{{asset('front/assets/img/icon/twitter-x.png')}}"
                                                     alt="Image Not Found"></a></li>
                                         <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                         <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>

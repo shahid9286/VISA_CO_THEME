@@ -1,11 +1,11 @@
-<div class="footer-top-area bg-dark-secondary text-light" style="background-image: url(assets/img/shape/17.png);">
+<div class="footer-top-area bg-dark-secondary text-light" style="background-image: url({{asset('front/assets/img/shape/17.png')}});">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4">
                     <div class="user-card">
                         <div class="thumb">
-                            <img src="assets/img/team/5.jpg" alt="Image Not Found">
-                            <img src="assets/img/team/6.jpg" alt="Image Not Found">
+                            <img src="{{asset('front/assets/img/team/5.jpg')}}" alt="Image Not Found">
+                            <img src="{{asset('front/assets/img/team/6.jpg')}}" alt="Image Not Found">
                             <span>4k</span>
                         </div>
                         <h4>Approved Student Visa Applications.</h4>

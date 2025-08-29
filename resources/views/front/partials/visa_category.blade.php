@@ -1,8 +1,8 @@
 <!-- Start Visa Category 
     ============================================= -->
-    <div class="visa-category-area default-padding text-center bg-gray bg-cover" style="background-image: url(assets/img/shape/20.png);">
+    <div class="visa-category-area default-padding text-center bg-gray bg-cover" style="background-image: url({{asset('front/assets/img/shape/20.png')}});">
         <div class="shape-top-right">
-            <img src="assets/img/illustration/4.png" alt="Image Not Found">
+            <img src="{{asset('front/assets/img/illustration/4.png')}}" alt="Image Not Found">
         </div>
         <div class="container">
             <div class="row">
@@ -26,12 +26,12 @@
                                 <div class="swiper-slide">
                                     <div class="visa-cat-style-one">
                                         <div class="thumb">
-                                            <img src="assets/img/category/1.jpg" alt="Image Not Found">
+                                            <img src="{{asset('front/assets/img/category/1.jpg')}}" alt="Image Not Found">
                                             <div class="shape">
-                                                <img src="assets/img/shape/39.png" alt="Image Not Found">
+                                                <img src="{{asset('front/assets/img/shape/39.png')}}" alt="Image Not Found">
                                             </div>
                                             <div class="icon">
-                                                <img src="assets/img/icon/business-visa.png" alt="Image Not Found">
+                                                <img src="{{asset('front/assets/img/icon/business-visa.png')}}" alt="Image Not Found">
                                             </div>
                                         </div>
                                         <div class="info">
@@ -44,7 +44,7 @@
                                             <a href="visa-details.html">
                                                 <i class="fas fa-angle-right"></i>
                                                 <span>Know More</span>
-                                                <div class="shape"><img src="assets/img/shape/40.png" alt="Image Not Found"></div>
+                                                <div class="shape"><img src="{{asset('front/assets/img/shape/40.png')}}" alt="Image Not Found"></div>
                                             </a>
                                         </div>
                                     </div>
@@ -54,12 +54,12 @@
                                 <div class="swiper-slide">
                                     <div class="visa-cat-style-one">
                                         <div class="thumb">
-                                            <img src="assets/img/category/2.jpg" alt="Image Not Found">
+                                            <img src="{{asset('front/assets/img/category/2.jpg')}}" alt="Image Not Found">
                                             <div class="shape">
-                                                <img src="assets/img/shape/39.png" alt="Image Not Found">
+                                                <img src="{{asset('front/assets/img/shape/39.png')}}" alt="Image Not Found">
                                             </div>
                                             <div class="icon">
-                                                <img src="assets/img/icon/student-visa.png" alt="Image Not Found">
+                                                <img src="{{asset('front/assets/img/icon/student-visa.png')}}" alt="Image Not Found">
                                             </div>
                                         </div>
                                         <div class="info">
@@ -72,7 +72,7 @@
                                             <a href="visa-details.html">
                                                 <i class="fas fa-angle-right"></i>
                                                 <span>Know More</span>
-                                                <div class="shape"><img src="assets/img/shape/40.png" alt="Image Not Found"></div>
+                                                <div class="shape"><img src="{{asset('front/assets/img/shape/40.png')}}" alt="Image Not Found"></div>
                                             </a>
                                         </div>
                                     </div>
@@ -82,12 +82,12 @@
                                 <div class="swiper-slide">
                                     <div class="visa-cat-style-one">
                                         <div class="thumb">
-                                            <img src="assets/img/category/3.jpg" alt="Image Not Found">
+                                            <img src="{{asset('front/assets/img/category/3.jpg')}}" alt="Image Not Found">
                                             <div class="shape">
-                                                <img src="assets/img/shape/39.png" alt="Image Not Found">
+                                                <img src="{{asset('front/assets/img/shape/39.png')}}" alt="Image Not Found">
                                             </div>
                                             <div class="icon">
-                                                <img src="assets/img/icon/travel-visa.png" alt="Image Not Found">
+                                                <img src="{{asset('front/assets/img/icon/travel-visa.png')}}" alt="Image Not Found">
                                             </div>
                                         </div>
                                         <div class="info">
@@ -100,7 +100,7 @@
                                             <a href="visa-details.html">
                                                 <i class="fas fa-angle-right"></i>
                                                 <span>Know More</span>
-                                                <div class="shape"><img src="assets/img/shape/40.png" alt="Image Not Found"></div>
+                                                <div class="shape"><img src="{{asset('front/assets/img/shape/40.png')}}" alt="Image Not Found"></div>
                                             </a>
                                         </div>
                                     </div>

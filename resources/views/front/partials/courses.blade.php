@@ -1,4 +1,4 @@
-    <div class="course-style-one-area default-padding-top">
+    <div id="coaching" class="course-style-one-area default-padding-top">
         <div class="container">
             <div class="row">
                 <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
@@ -27,17 +27,16 @@
                                 <div class="overlay-title">
                                     <h4><a href="coaching-details.html">Entrepreneurs Starting</a></h4>
                                     <div class="icon">
-                                        <img src="assets/img/icon/3.png" alt="Image Not Found">
+                                        <img src="{{asset('front/assets/img/icon/3.png')}}" alt="Image Not Found">
                                     </div>
                                 </div>
                                 <div class="overlay">
                                     <div class="icon">
-                                        <img src="assets/img/icon/3.png" alt="Image Not Found">
+                                        <img src="{{asset('front/assets/img/icon/3.png')}}" alt="Image Not Found">
                                     </div>
                                     <h4><a href="coaching-details.html">Entrepreneurs Starting</a></h4>
                                     <p>
-                                        There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in.
+                                        There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in.
                                     </p>
                                 </div>
                             </div>
@@ -50,17 +49,16 @@
                                 <div class="overlay-title">
                                     <h4><a href="coaching-details.html">Visa Training</a></h4>
                                     <div class="icon">
-                                        <img src="assets/img/icon/4.png" alt="Image Not Found">
+                                        <img src="{{asset('front/assets/img/icon/4.png')}}" alt="Image Not Found">
                                     </div>
                                 </div>
                                 <div class="overlay">
                                     <div class="icon">
-                                        <img src="assets/img/icon/4.png" alt="Image Not Found">
+                                        <img src="{{asset('front/assets/img/icon/4.png')}}" alt="Image Not Found">
                                     </div>
                                     <h4><a href="coaching-details.html">Visa Training</a></h4>
                                     <p>
-                                        There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in.
+                                        There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in.
                                     </p>
                                 </div>
                             </div>
@@ -73,17 +71,16 @@
                                 <div class="overlay-title">
                                     <h4><a href="coaching-details.html">Immigration law</a></h4>
                                     <div class="icon">
-                                        <img src="assets/img/icon/5.png" alt="Image Not Found">
+                                        <img src="{{asset('front/assets/img/icon/5.png')}}" alt="Image Not Found">
                                     </div>
                                 </div>
                                 <div class="overlay">
                                     <div class="icon">
-                                        <img src="assets/img/icon/5.png" alt="Image Not Found">
+                                        <img src="{{asset('front/assets/img/icon/5.png')}}" alt="Image Not Found">
                                     </div>
                                     <h4><a href="coaching-details.html">Immigration law</a></h4>
                                     <p>
-                                        There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in.
+                                        There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in.
                                     </p>
                                 </div>
                             </div>
@@ -96,17 +93,16 @@
                                 <div class="overlay-title">
                                     <h4><a href="coaching-details.html">Business Development</a></h4>
                                     <div class="icon">
-                                        <img src="assets/img/icon/6.png" alt="Image Not Found">
+                                        <img src="{{asset('front/assets/img/icon/6.png')}}" alt="Image Not Found">
                                     </div>
                                 </div>
                                 <div class="overlay">
                                     <div class="icon">
-                                        <img src="assets/img/icon/6.png" alt="Image Not Found">
+                                        <img src="{{asset('front/assets/img/icon/6.png')}}" alt="Image Not Found">
                                     </div>
                                     <h4><a href="coaching-details.html">Business Development </a></h4>
                                     <p>
-                                        There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in.
+                                        There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in.
                                     </p>
                                 </div>
                             </div>

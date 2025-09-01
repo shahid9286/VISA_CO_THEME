@@ -21,5 +21,10 @@ class FrontController extends Controller
         // dd('ss');
         return view('front.home3.home');
     }
+        public function index4()
+    {
+        // dd('ss');
+        return view('front.home4.home');
+    }
 
 }

@@ -3,26 +3,6 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Front\FrontController;
 
-
-
-
-
 // Frontend routes
-
 Route::get('/', [FrontController::class, 'index'])->name('front.index');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Route::get('/index2', [FrontController::class, 'index2'])->name('front.index2');

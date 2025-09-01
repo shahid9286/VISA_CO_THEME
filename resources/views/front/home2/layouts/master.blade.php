@@ -14,7 +14,7 @@
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
     <!-- ========== Start Stylesheet ========== -->
-    @include('front.layouts.partials.styles')
+    @include('front.home2.layouts.partials.styles')
     <!-- ========== End Stylesheet ========== -->
 
     @yield('css')
@@ -25,11 +25,11 @@
 
     <!-- Start Header Top
     ============================================= -->
-    @include('front.layouts.partials.top-bar')
+    @include('front.home2.layouts.partials.top-bar')
     <!-- End Header Top -->
 
     <!-- Header =================== -->
-    @include('front.layouts.partials.header')
+    @include('front.home2.layouts.partials.header')
     <!-- End Header -->
 
 
@@ -38,13 +38,13 @@
 
     <!-- Start Footer
     ============================================= -->
-@include('front.layouts.partials.footer-top')
+@include('front.home2.layouts.partials.footer-top')
     <!-- End Footer -->
-@include('front.layouts.partials.footer')
+@include('front.home2.layouts.partials.footer')
     <!-- jQuery Frameworks
     ============================================= -->
 
-    @include('front.layouts.partials.scripts')
+    @include('front.home2.layouts.partials.scripts')
 
     {{-- Extra JS for specific pages --}}
     @yield('js')

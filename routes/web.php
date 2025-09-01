@@ -6,6 +6,7 @@ use App\Http\Controllers\Admin\CountryController;
 
 
 Route::get('/', [FrontController::class, 'index'])->name('front.index');
+Route::get('/index2', [FrontController::class, 'index2'])->name('front.index2');
 
 
 

@@ -45,11 +45,11 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages</a>
                             <ul class="dropdown-menu">
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
+                                    <a href="{{route('front.about3')}}" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
                                     <ul class="dropdown-menu">
                                         <li><a href="about-us.html">About Style One</a></li>
                                         <li><a href="about-us-2.html">About Style Two</a></li>
-                                        <li><a href="about-us-3.html">About Style Three</a></li>
+                                        <li><a href="{{route('front.about3')}}">About Style Three</a></li>
                                         <li><a href="about-us-4.html">About Style Four</a></li>
                                     </ul>
                                 </li>

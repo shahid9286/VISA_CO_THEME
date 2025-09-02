@@ -1,6 +1,6 @@
         <div class="shape">
-            <img src="assets/img/shape/globe-half.png" alt="Image Not Found">
-            <img src="assets/img/shape/13.png" alt="Image Not Found">
+            <img src="{{ asset('front/assets/img/shape/globe-half.png') }}" alt="Image Not Found">
+            <img src="{{ asset('front/assets/img/shape/13.png') }}" alt="Image Not Found">
         </div>
         <div class="container">
             <div class="f-items">
@@ -16,7 +16,7 @@
                                 </p>
                                 <ul class="footer-social-regular mt-30">
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><img src="assets/img/icon/twitter-x.png"
+                                    <li><a href="#"><img src="{{ asset('front/assets/img/icon/twitter-x.png') }}"
                                                 alt="Image Not Found"></a></li>
                                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>

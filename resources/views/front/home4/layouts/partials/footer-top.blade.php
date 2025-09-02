@@ -4,7 +4,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="footer-logo">
-                            <img src="assets/img/logo-light.svg" alt="Image Not Found">
+                            <img src="{{ asset('front/assets/img/logo-light.svg') }}" alt="Image Not Found">
                         </div>
                     </div>
                     <div class="col-lg-8">

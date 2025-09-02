@@ -12,3 +12,4 @@ Route::get('/index4', [FrontController::class, 'index4'])->name('front.index4');
 
 
 
+Route::get('/about3', [FrontController::class, 'about3'])->name('front.about3');
